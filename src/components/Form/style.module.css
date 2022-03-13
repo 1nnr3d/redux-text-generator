@@ -1,0 +1,29 @@
+.inputBox {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  margin: 5px 10px;
+}
+
+.inputBox:first-child {
+  margin-left: 0px;
+}
+
+.form {
+  display: flex;
+}
+
+.select {
+  padding: 5px;
+  font-size: 14px;
+  background-color: white;
+  border: solid 1px white;
+  margin-top: 4px;
+}
+
+.input {
+  padding: 5px;
+  font-size: 14px;
+  border: solid 1px white;
+  margin-top: 4px;
+}

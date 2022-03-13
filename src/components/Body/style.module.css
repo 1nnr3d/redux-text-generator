@@ -1,0 +1,11 @@
+.container {
+  width: 58%;
+  margin: auto;
+}
+
+.text {
+  border-radius: 5px;
+  color: white;
+  background-color: #303030;
+  padding: 55px 35px;
+}
