@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Redux Project #1
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Patika.dev Redux Project #1
+
+![gif](https://gyazo.com/3f9206601e1ef88140da294a77e5eaf4)
 
 ## Available Scripts
 
