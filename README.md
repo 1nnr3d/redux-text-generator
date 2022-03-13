@@ -1,6 +1,6 @@
 # Redux Project #1
 
-### Redux Text Generator - Patika.dev Redux Project #1 
+#### Redux Text Generator - Patika.dev Redux Project #1 
 
 ![gif](https://i.gyazo.com/3f9206601e1ef88140da294a77e5eaf4.gif)
 
