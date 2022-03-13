@@ -2,7 +2,7 @@
 
 ## Patika.dev Redux Project #1
 
-![gif](https://gyazo.com/3f9206601e1ef88140da294a77e5eaf4)
+![gif](https://i.gyazo.com/3f9206601e1ef88140da294a77e5eaf4.gif)
 
 ## Available Scripts
 
